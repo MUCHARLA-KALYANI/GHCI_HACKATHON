@@ -1,0 +1,12 @@
+{
+    "categories": [
+        {"id": "C01", "name": "Groceries", "keywords": ["TRADER JOES", "WHOLE FOODS", "RALPHS", "MARKET", "GROCERY"], "weight": 0.25},
+        {"id": "C02", "name": "Coffee/Dining", "keywords": ["STARBUCKS", "MCDONALDS", "CAFE", "PIZZA", "SUSHI", "RESTAURANT"], "weight": 0.20},
+        {"id": "C03", "name": "Fuel/Gas", "keywords": ["SHELL GAS", "EXXON", "CHEVRON", "PUMP", "GAS STATION"], "weight": 0.10},
+        {"id": "C04", "name": "Utilities", "keywords": ["COMCAST", "AEP", "ELEC BILL", "WATER SERVICE", "CABLE"], "weight": 0.05},
+        {"id": "C05", "name": "Transfer/Income", "keywords": ["PAYROLL", "SALARY", "TRANSFER", "VENMO CASH IN"], "weight": 0.10},
+        {"id": "C06", "name": "Shopping", "keywords": ["AMAZON.COM", "TARGET", "BEST BUY", "APPLE STORE", "RETAIL"], "weight": 0.20},
+        {"id": "C07", "name": "Transport", "keywords": ["UBER TRIP", "LYFT", "METRO RAIL", "TOLL"], "weight": 0.05},
+        {"id": "C08", "name": "Health/Fitness", "keywords": ["DOCTOR", "PHARMACY", "GYM MEMBERSHIP"], "weight": 0.05}
+    ]
+}
